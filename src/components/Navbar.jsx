@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='w-full h-20 bg-slate-200 fixed  '>
+    <div className='w-full h-20 bg-slate-400  rounded-2xl '>
       <div className='mx-6 flex justify-between'>
         <img src="/logo.svg" alt='logo' className='w-36 h-16'/>
         <div className='flex gap-8 my-auto'>
